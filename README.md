@@ -1,2 +1,2 @@
-# pistus
+# pistis
 Apologetics, philosophy, science area.
